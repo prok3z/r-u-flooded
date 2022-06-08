@@ -5,7 +5,7 @@
 ## Build
 
 ```bash
-git clone https://github.com/celsec/r-u-flooded
+git clone https://github.com/c3l3si4n/r-u-flooded
 cd r-u-flooded
 cargo build
 ./target/debug/r-u-flooded
